@@ -1,0 +1,34 @@
+
+/* ABOUT */
+.headings{
+    margin-top: 3rem;
+}
+#about{
+    height: 100%;
+}
+.about-it{
+    flex-direction: column;
+    padding: 0 ;
+}
+#about .line{
+    margin-bottom: 5px;
+}
+.about-it img{
+    width: 300px;
+    height: 400px;
+}
+.text h1{
+    font-size: 15px;
+}
+.text p{
+    font-size: 15px;
+    padding: 0 8px;
+}
+.text h3{
+    font-size: 15px;
+}
+.skills{
+    width: 300px;
+    
+}
+
